@@ -1,5 +1,7 @@
 import React from "react";
 
-export default function ProductComponent() {
-  return <div>Product component</div>;
-}
+const ProductComponent = () => {
+  return <div>Product Component</div>;
+};
+
+export default ProductComponent;
